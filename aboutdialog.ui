@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>470</width>
+    <width>520</width>
     <height>300</height>
    </rect>
   </property>
@@ -86,21 +86,21 @@
        <item>
         <widget class="QLabel" name="labelDeveloper">
          <property name="text">
-          <string>开发者：</string>
+          <string>开发者：郑竣杰</string>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QLabel" name="labelStudentId">
          <property name="text">
-          <string>学号：</string>
+          <string>学号：2024463030238</string>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QLabel" name="labelEmail">
          <property name="text">
-          <string>邮箱：</string>
+          <string>邮箱：2119657168@qq.com</string>
          </property>
         </widget>
        </item>
